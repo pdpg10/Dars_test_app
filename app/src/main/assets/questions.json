@@ -1,0 +1,53 @@
+[
+  {
+    "question": "question1",
+    "answers": [
+      {
+        "answer": "answer A",
+        "isCorrect": true
+      },
+      {
+        "answer": "answer B ",
+        "isCorrect": false
+      },
+      {
+        "answer": "answer C",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "question2",
+    "answers": [
+      {
+        "answer": "answer A",
+        "isCorrect": true
+      },
+      {
+        "answer": "answer B ",
+        "isCorrect": false
+      },
+      {
+        "answer": "answer C",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "question3",
+    "answers": [
+      {
+        "answer": "answer A",
+        "isCorrect": true
+      },
+      {
+        "answer": "answer B ",
+        "isCorrect": false
+      },
+      {
+        "answer": "answer C",
+        "isCorrect": false
+      }
+    ]
+  }
+]
